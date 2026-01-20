@@ -1,4 +1,4 @@
-(try to reverse engineer a wallet)
+(This is a brain dump as I try to reverse engineer a wallet) 
 
 Build a crypto wallet using Rust: steps how to
 https://tms-dev-blog.com/build-a-crypto-wallet-using-rust/
